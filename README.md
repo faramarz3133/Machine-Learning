@@ -23,8 +23,8 @@ Machine-Learning/
 │ ├── README.md
 │ └── requirements.txt
 │
-├── 3_Customer_Segmentation_KMeans/
-│ ├── Customer_Segmentation.ipynb
+├── 3_Customer_Clustering_KMeans/
+│ ├── Customer_Clustering.ipynb
 │ ├── README.md
 │
 └── 4_PCA_Digits_Dataset/
@@ -57,7 +57,7 @@ Key steps:
 
 ---
 
-### 👥 3. Customer Segmentation using K-Means (Unsupervised Learning)
+### 👥 3. Customer Clustering using K-Means (Unsupervised Learning)
 Segmenting customers based on **Annual Income** and **Spending Score** using **K-Means clustering**.  
 Includes:
 - Data visualization and correlation analysis
