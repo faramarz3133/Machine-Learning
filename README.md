@@ -21,7 +21,6 @@ Machine-Learning/
 ├── 2_Breast_Cancer_Classification/
 │ ├── Breast_Cancer_Classification.ipynb
 │ ├── README.md
-│ └── requirements.txt
 │
 ├── 3_Customer_Clustering_KMeans/
 │ ├── Customer_Clustering.ipynb
