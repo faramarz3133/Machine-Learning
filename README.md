@@ -10,7 +10,7 @@ Each project focuses on a key concept in ML — from **regression** and **classi
 
 ## 📁 Project Structure
 
-
+```
 Machine-Learning/
 │
 ├── 1_California_Housing_Price_Prediction/
@@ -30,6 +30,7 @@ Machine-Learning/
 └── 4_PCA_Digits_Dataset/
 ├── PCA_Digits.ipynb
 ├── README.md
+```
 
 ## 🧠 Projects Overview
 
@@ -95,15 +96,18 @@ Includes:
 1. Clone this repository:
    ```bash
    git clone https://github.com/<your-username>/Machine-Learning.git
-2.Navigate to any project folder:
+   ```
+2. Navigate to any project folder:
     ```bash
     cd Machine-Learning/1_California_Housing_Price_Prediction
-3.Install dependencies:
+    ```
+3. Install dependencies:
     ```bash
     pip install -r requirements.txt
-4.Open the notebook and run all cells:
+    ```
+4. Open the notebook and run all cells:
     ```bash
     jupyter notebook California_Housing_Prediction.ipynb
-
+   ```
 
    
